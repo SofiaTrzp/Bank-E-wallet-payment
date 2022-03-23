@@ -1,0 +1,126 @@
+2021-12-19 00:17:41.737  INFO LAPTOP-79PFEBLK - [kground-preinit] o.h.v.i.u.Version              : HV000001: Hibernate Validator 6.2.0.Final
+2021-12-19 00:17:41.783  INFO LAPTOP-79PFEBLK - [  restartedMain] g.c.Edge                       : Starting Edge using Java 11.0.13 on LAPTOP-79PFEBLK with PID 53164 (C:\Users\softe\OneDrive\Documents\Code.Hub\fintech-pf7-master\fintech-pf7-master\java-path-spring-edge\target\classes started by softe in C:\Users\softe\OneDrive\Documents\Code.Hub\fintech-pf7-master)
+2021-12-19 00:17:41.787 DEBUG LAPTOP-79PFEBLK - [  restartedMain] g.c.Edge                       : Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-12-19 00:17:41.789  INFO LAPTOP-79PFEBLK - [  restartedMain] g.c.Edge                       : No active profile set, falling back to default profiles: default
+2021-12-19 00:17:41.838  INFO LAPTOP-79PFEBLK - [  restartedMain] sPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-12-19 00:17:41.838  INFO LAPTOP-79PFEBLK - [  restartedMain] sPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-12-19 00:17:42.578  INFO LAPTOP-79PFEBLK - [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-19 00:17:42.644  INFO LAPTOP-79PFEBLK - [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 55 ms. Found 1 JPA repository interfaces.
+2021-12-19 00:17:43.153  INFO LAPTOP-79PFEBLK - [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 8080 (http)
+2021-12-19 00:17:43.161  INFO LAPTOP-79PFEBLK - [  restartedMain] o.a.c.h.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2021-12-19 00:17:43.161  INFO LAPTOP-79PFEBLK - [  restartedMain] o.a.c.c.StandardService        : Starting service [Tomcat]
+2021-12-19 00:17:43.161  INFO LAPTOP-79PFEBLK - [  restartedMain] o.a.c.c.StandardEngine         : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-12-19 00:17:43.263  INFO LAPTOP-79PFEBLK - [  restartedMain] o.a.c.c.C.[.[.[/]              : Initializing Spring embedded WebApplicationContext
+2021-12-19 00:17:43.263  INFO LAPTOP-79PFEBLK - [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1425 ms
+2021-12-19 00:17:43.290  INFO LAPTOP-79PFEBLK - [  restartedMain] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2021-12-19 00:17:43.398  INFO LAPTOP-79PFEBLK - [  restartedMain] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2021-12-19 00:17:43.414  INFO LAPTOP-79PFEBLK - [  restartedMain] a.h.H2ConsoleAutoConfiguration : H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:db'
+2021-12-19 00:17:43.526  INFO LAPTOP-79PFEBLK - [  restartedMain] o.h.j.i.u.LogHelper            : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-19 00:17:43.574  INFO LAPTOP-79PFEBLK - [  restartedMain] o.h.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-12-19 00:17:43.716  INFO LAPTOP-79PFEBLK - [  restartedMain] o.h.a.c.Version                : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-19 00:17:43.822  INFO LAPTOP-79PFEBLK - [  restartedMain] o.h.d.Dialect                  : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-12-19 00:17:44.311  INFO LAPTOP-79PFEBLK - [  restartedMain] e.t.j.p.i.JtaPlatformInitiator : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-19 00:17:44.311  INFO LAPTOP-79PFEBLK - [  restartedMain] tainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-19 00:17:44.851  WARN LAPTOP-79PFEBLK - [  restartedMain] figuration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-19 00:17:45.103  INFO LAPTOP-79PFEBLK - [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2021-12-19 00:17:45.170  INFO LAPTOP-79PFEBLK - [  restartedMain] o.a.c.h.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2021-12-19 00:17:45.183  INFO LAPTOP-79PFEBLK - [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-19 00:17:45.199  INFO LAPTOP-79PFEBLK - [  restartedMain] g.c.Edge                       : Started Edge in 3.764 seconds (JVM running for 5.637)
+2021-12-19 00:17:45.199  INFO LAPTOP-79PFEBLK - [  restartedMain] g.c.b.DatabaseInitializer      : Attempting to initialize application data.
+2021-12-19 00:17:45.279  INFO LAPTOP-79PFEBLK - [  restartedMain] g.c.b.DatabaseInitializer      : Initialization of data is needed.
+2021-12-19 00:17:45.312  WARN LAPTOP-79PFEBLK - [  restartedMain] o.h.e.j.s.SqlExceptionHelper   : SQL Error: 22001, SQLState: 22001
+2021-12-19 00:17:45.312 ERROR LAPTOP-79PFEBLK - [  restartedMain] o.h.e.j.s.SqlExceptionHelper   : Value too long for column "ID BINARY": "CAST(X'e4a8733a009841209fb84ca8c9217ff9' AS BINARY(16)) (16)"; SQL statement:
+insert into account (balance, iban, name, type, id) values (?, ?, ?, ?, ?) [22001-202]
+2021-12-19 00:17:45.327  INFO LAPTOP-79PFEBLK - [  restartedMain] valuationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-12-19 00:17:45.344 ERROR LAPTOP-79PFEBLK - [  restartedMain] o.s.b.SpringApplication        : Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:794)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:345)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at gr.codelearn.Edge.main(Edge.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.dao.DataIntegrityViolationException: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.DataException: could not execute statement
+	at org.springframework.orm.jpa.vendor.HibernateJpaDialect.convertHibernateAccessException(HibernateJpaDialect.java:280)
+	at org.springframework.orm.jpa.vendor.HibernateJpaDialect.translateExceptionIfPossible(HibernateJpaDialect.java:233)
+	at org.springframework.orm.jpa.JpaTransactionManager.doCommit(JpaTransactionManager.java:566)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:743)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:711)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.commitTransactionAfterReturning(TransactionAspectSupport.java:654)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:407)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:174)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at com.sun.proxy.$Proxy108.saveAll(Unknown Source)
+	at gr.codelearn.service.impl.AccountServiceImpl.saveAll(AccountServiceImpl.java:30)
+	at gr.codelearn.bootstrap.DatabaseInitializer.run(DatabaseInitializer.java:26)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:791)
+	... 10 more
+Caused by: org.hibernate.exception.DataException: could not execute statement
+	at org.hibernate.exception.internal.SQLExceptionTypeDelegate.convert(SQLExceptionTypeDelegate.java:52)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:42)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:113)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:99)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:200)
+	at org.hibernate.persister.entity.AbstractEntityPersister.insert(AbstractEntityPersister.java:3298)
+	at org.hibernate.persister.entity.AbstractEntityPersister.insert(AbstractEntityPersister.java:3825)
+	at org.hibernate.action.internal.EntityInsertAction.execute(EntityInsertAction.java:107)
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:604)
+	at org.hibernate.engine.spi.ActionQueue.lambda$executeActions$1(ActionQueue.java:478)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:684)
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:475)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.performExecutions(AbstractFlushingEventListener.java:344)
+	at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:40)
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:99)
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1362)
+	at org.hibernate.internal.SessionImpl.managedFlush(SessionImpl.java:453)
+	at org.hibernate.internal.SessionImpl.flushBeforeTransactionCompletion(SessionImpl.java:3212)
+	at org.hibernate.internal.SessionImpl.beforeTransactionCompletion(SessionImpl.java:2380)
+	at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.beforeTransactionCompletion(JdbcCoordinatorImpl.java:448)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.beforeCompletionCallback(JdbcResourceLocalTransactionCoordinatorImpl.java:183)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.access$300(JdbcResourceLocalTransactionCoordinatorImpl.java:40)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commit(JdbcResourceLocalTransactionCoordinatorImpl.java:281)
+	at org.hibernate.engine.transaction.internal.TransactionImpl.commit(TransactionImpl.java:101)
+	at org.springframework.orm.jpa.JpaTransactionManager.doCommit(JpaTransactionManager.java:562)
+	... 27 more
+Caused by: org.h2.jdbc.JdbcSQLDataException: Value too long for column "ID BINARY": "CAST(X'e4a8733a009841209fb84ca8c9217ff9' AS BINARY(16)) (16)"; SQL statement:
+insert into account (balance, iban, name, type, id) values (?, ?, ?, ?, ?) [22001-202]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:506)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.getValueTooLongException(DbException.java:322)
+	at org.h2.value.Value.getValueTooLongException(Value.java:2571)
+	at org.h2.value.Value.convertToBinary(Value.java:1346)
+	at org.h2.value.Value.convertTo(Value.java:1122)
+	at org.h2.value.Value.convertForAssignTo(Value.java:1091)
+	at org.h2.table.Column.validateConvertUpdateSequence(Column.java:369)
+	at org.h2.table.Table.convertInsertRow(Table.java:931)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:167)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:61)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:173)
+	at org.h2.command.Command.executeUpdate(Command.java:247)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:209)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:169)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:197)
+	... 47 more
+2021-12-19 00:17:45.500  INFO LAPTOP-79PFEBLK - [  restartedMain] tainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-12-19 00:17:45.500  INFO LAPTOP-79PFEBLK - [  restartedMain] pperImpl$DelayedDropActionImpl : HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-12-19 00:17:45.706  WARN LAPTOP-79PFEBLK - [  restartedMain] .s.b.f.s.DisposableBeanAdapter : Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-202]
+2021-12-19 00:17:45.706  INFO LAPTOP-79PFEBLK - [  restartedMain] c.z.h.HikariDataSource         : HikariPool-1 - Shutdown initiated...
+2021-12-19 00:17:45.706  INFO LAPTOP-79PFEBLK - [  restartedMain] c.z.h.HikariDataSource         : HikariPool-1 - Shutdown completed.

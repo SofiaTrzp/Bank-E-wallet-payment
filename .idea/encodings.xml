@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$APPLICATION_HOME_DIR$/jbr/bin/src/main/java" charset="UTF-8" />
+    <file url="file://$APPLICATION_HOME_DIR$/jbr/bin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fintech-pf7-master/java-path-spring-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fintech-pf7-master/java-path-spring-edge/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fintech-pf7-master/java-path-spring-integration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fintech-pf7-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-path-spring-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-path-spring-commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-path-spring-edge/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-path-spring-edge/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-path-spring-integration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-path-spring-integration/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

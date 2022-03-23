@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/fintech-pf7-master.iml" filepath="$PROJECT_DIR$/.idea/fintech-pf7-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fintech-pf7-master/java-path-spring-bankingSystem.iml" filepath="$PROJECT_DIR$/fintech-pf7-master/java-path-spring-bankingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fintech-pf7-master/java-path-spring-commons/java-path-spring-commons.iml" filepath="$PROJECT_DIR$/fintech-pf7-master/java-path-spring-commons/java-path-spring-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-path-spring-commons/java-path-spring-commons (1).iml" filepath="$PROJECT_DIR$/java-path-spring-commons/java-path-spring-commons (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/fintech-pf7-master/java-path-spring-edge/java-path-spring-edge.iml" filepath="$PROJECT_DIR$/fintech-pf7-master/java-path-spring-edge/java-path-spring-edge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-path-spring-edge/java-path-spring-edge (1).iml" filepath="$PROJECT_DIR$/java-path-spring-edge/java-path-spring-edge (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/fintech-pf7-master/java-path-spring-integration/java-path-spring-integration.iml" filepath="$PROJECT_DIR$/fintech-pf7-master/java-path-spring-integration/java-path-spring-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-path-spring-integration/java-path-spring-integration (1).iml" filepath="$PROJECT_DIR$/java-path-spring-integration/java-path-spring-integration (1).iml" />
+    </modules>
+  </component>
+</project>

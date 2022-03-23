@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Annotation profile for [java-path-spring-bankingSystem]" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.20/lombok-1.18.20.jar" />
+        </processorPath>
+        <module name="java-path-spring-edge" />
+        <module name="java-path-spring-commons" />
+        <module name="java-path-spring-commons (1)" />
+        <module name="java-path-spring-integration" />
+        <module name="java-path-spring-integration (1)" />
+        <module name="java-path-spring-edge (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fintech-pf7-master" target="11" />
+      <module name="java-path-spring-bankingSystem" target="11" />
+      <module name="java-path-spring-commons" target="11" />
+      <module name="java-path-spring-commons (1)" target="11" />
+      <module name="java-path-spring-edge" target="11" />
+      <module name="java-path-spring-edge (1)" target="11" />
+      <module name="java-path-spring-integration" target="11" />
+      <module name="java-path-spring-integration (1)" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="fintech-pf7-master" options="" />
+      <module name="java-path-spring-bankingSystem" options="" />
+      <module name="java-path-spring-commons" options="-parameters" />
+      <module name="java-path-spring-commons (1)" options="-parameters" />
+      <module name="java-path-spring-edge" options="-parameters" />
+      <module name="java-path-spring-edge (1)" options="-parameters" />
+      <module name="java-path-spring-integration" options="-parameters" />
+      <module name="java-path-spring-integration (1)" options="-parameters" />
+    </option>
+  </component>
+</project>
